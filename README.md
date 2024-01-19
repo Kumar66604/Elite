@@ -110,7 +110,7 @@ python3 bot.py
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-*  [![𝙴𝚕𝚒𝚝𝚎-𝙲𝚘𝚍𝚎𝚛𝚜](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/Elitecodes_tg)
+*  [![𝙴𝚕𝚒𝚝𝚎-𝙲𝚘𝚍𝚎𝚛𝚜](https://img.shields.io/static/v1?label=Elite&message=Coders&color=critical)](https://telegram.dog/Elitecodes_tg)
 
 
 ## Thanks to 
