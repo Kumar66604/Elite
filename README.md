@@ -2,7 +2,7 @@
   <img src="assets/logo.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>༄●⃝🦋𝙴𝙻𝙸𝚃𝙴-ꭘ͓̽🝛꯭┼⃖❉͡❄️</b>
+  <b>𝗘𝗟𝗜𝗧𝗘-𝗖𝗢𝗗𝗘𝗥𝗦</b>
 </h1>
 
 
